@@ -40,3 +40,8 @@ h1 {
 .photo-description {
     font-size: 12px;
 }
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
