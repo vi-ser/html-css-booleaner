@@ -45,3 +45,30 @@ ul {
     list-style-position: inside;
     padding-left: 0;
 }
+
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #1FA9E5;
+}
+
+td {
+    width: 20px;
+}
+
+tr {
+    padding: 0;
+}
+
+.row-odd {
+    background-color: #B1E5F2;
+}
+
+.row-even {
+    background-color: white;
+}
