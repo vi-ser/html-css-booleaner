@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 header {
     height: 100px;
     background-color: rgb(78, 160, 255);
@@ -15,6 +19,12 @@ h1 {
     font-size: 32px;
     margin-top: 20px;
     margin-bottom: 0;
+}
+
+h2 {
+    font-size: 21px;
+    color: grey;
+    margin-top: 20px;
 }
 
 .written-by {
@@ -71,4 +81,24 @@ tr {
 
 .row-even {
     background-color: white;
+}
+
+#related-1 {
+    width: 240px;
+    height: 200px;
+    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/monitor.jpg');
+    padding: 20px;
+}
+
+#related-2 {
+    width: 240px;
+    height: 200px;
+    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/graph.jpg');
+    padding: 20px;
+    margin-top: 16px;
+}
+
+.related-text {
+    font-size: 24px;
+    color: white;
 }
