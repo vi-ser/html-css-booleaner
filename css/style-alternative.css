@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+}
+
+main,
+footer {
+    width: 1030px;
+    margin: auto;
+}
+
+header {
+    height: 100px;
+    background-color: rgb(78, 160, 255);
+    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/pattern.png');
+    background-size: 50%;
+    margin: auto;
+    padding-left: 320px;
+}
+
+#logo-booleaner {
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 21px;
+    color: grey;
+    margin-top: 20px;
+}
+
+.written-by {
+    font-size: 16px;
+    font-weight: 300;
+    color: grey;
+}
+
+#author {
+    font-size: 16px;
+    color: rgb(0, 170, 255);
+}
+
+.date {
+    font-size: 12px;
+    color: grey;
+}
+
+.photos {
+    margin-top: 20px;
+}
+
+.photo-description {
+    font-size: 12px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #1FA9E5;
+}
+
+td {
+    width: 20px;
+}
+
+tr {
+    padding: 0;
+}
+
+.row-odd {
+    background-color: #B1E5F2;
+}
+
+.row-even {
+    background-color: white;
+}
+
+#related-1 {
+    width: 240px;
+    height: 200px;
+    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/monitor.jpg');
+    padding: 20px;
+}
+
+#related-2 {
+    width: 240px;
+    height: 200px;
+    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/graph.jpg');
+    padding: 20px;
+    margin-top: 16px;
+}
+
+.related-text {
+    font-size: 24px;
+    color: white;
+}
