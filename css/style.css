@@ -32,3 +32,11 @@ h1 {
     font-size: 12px;
     color: grey;
 }
+
+.photos {
+    margin-top: 20px;
+}
+
+.photo-description {
+    font-size: 12px;
+}
