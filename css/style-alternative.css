@@ -11,7 +11,7 @@ footer {
 header {
     height: 100px;
     background-color: rgb(78, 160, 255);
-    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/pattern.png');
+    background-image: url('../img/pattern.png');
     background-size: 50%;
     margin: auto;
     padding-left: 320px;
@@ -94,14 +94,14 @@ tr {
 #related-1 {
     width: 240px;
     height: 200px;
-    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/monitor.jpg');
+    background-image: url('../img/monitor.jpg');
     padding: 20px;
 }
 
 #related-2 {
     width: 240px;
     height: 200px;
-    background-image: url('/Users/vincenzorobertosergi/Documents/Study/Boolean/Full-Stack/3 - CSS/html-css-booleaner/img/graph.jpg');
+    background-image: url('../img/graph.jpg');
     padding: 20px;
     margin-top: 16px;
 }
