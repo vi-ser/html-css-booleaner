@@ -67,8 +67,8 @@ thead {
     background-color: #1FA9E5;
 }
 
-td {
-    width: 20px;
+.colonna-25 {
+    width: 25%;
 }
 
 tr {
